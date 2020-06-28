@@ -1,10 +1,4 @@
-# SQL Server Management Studio Icon Reference
-
-A visual guide for SQL Server Management Studio's undocumented user interface icons.
-
-*Icons are from version 18 or greater.*
-
-## Table of Contents
+# Table of Contents
 
 * [Instance](##instance)
   * [Database](##database)
@@ -18,6 +12,8 @@ A visual guide for SQL Server Management Studio's undocumented user interface ic
     * [Server Role](###server-role)
 * [Why these samples](##why-these-samples)
 * [Contribute](##contribute)
+
+*Icons are from version 18 or greater.*
 
 ## Instance
 
