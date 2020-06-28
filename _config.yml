@@ -4,3 +4,6 @@ title: SQL Server Management Studio Icon Reference
 description:
 plugins:
   - jemoji
+show_downloads: false
+github:
+  is_project_page: false
