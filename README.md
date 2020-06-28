@@ -1,17 +1,17 @@
 # Table of Contents
 
-* [Instance](##instance)
-  * [Database](##database)
-    * [Database User](###database-user)
-  * [Management](##management)
-    * [Policy Management](###policy-management)
-  * [SQL Server Agent](##sql-server-agent)
-    * [Job](###job)
-  * [Security](##security)
-    * [Login](###login)
-    * [Server Role](###server-role)
-* [Why these samples](##why-these-samples)
-* [Contribute](##contribute)
+* [Instance](#instance)
+  * [Database](#database)
+    * [Database User](#database-user)
+  * [Management](#management)
+    * [Policy Management](#policy-management)
+  * [SQL Server Agent](#sql-server-agent)
+    * [Job](#job)
+  * [Security](#security)
+    * [Login](#login)
+    * [Server Role](#server-role)
+* [Why these samples](#why-these-samples)
+* [Contribute](#contribute)
 
 *Icons are from version 18 or greater.*
 
