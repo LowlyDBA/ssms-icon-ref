@@ -112,4 +112,4 @@ to leverage technical examples to increase awareness, diversification, and chang
 Missing something? Want to add an icon? Open an [issue][issue] to get some :heart:.
 
 [issue]: https://github.com/LowlyDBA/ssms-icon-ref/issues
-[samps]: https://lowlydba.github.io/sampledataforchange/
+[samps]: https://sampledataforchange.github.io/
