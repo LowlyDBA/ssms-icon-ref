@@ -1,7 +1,7 @@
-
-[![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/LowlyDBA/ExpressSQL/) [![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change-%E2%9D%A4-red)][sdfc] 
-
 # Table of Contents
+
+[![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/LowlyDBA/ExpressSQL/)
+[![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change-%E2%9D%A4-red)][sdfc]
 
 * [Instance](#instance)
   * [Database](#database)
