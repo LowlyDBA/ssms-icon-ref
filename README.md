@@ -1,5 +1,6 @@
 
-[![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/LowlyDBA/ExpressSQL/) [![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change-%E2%9D%A4-red)][sdfc] 
+[![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/LowlyDBA/ExpressSQL/) 
+[![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change-%E2%9D%A4-red)][sdfc] 
 
 # Table of Contents
 
@@ -107,7 +108,7 @@ Indicates the modification status of a server role.
 
 ## Why These Samples
 
-The samples chosen for this reference guide were done so as a part of [Sample Data for Change][samps], which strives
+The samples chosen for this reference guide were done so as a part of [Sample Data for Change][sdfc], which strives
 to leverage technical examples to increase awareness, diversification, and change within technical fields.
 
 ## Contribute
@@ -115,5 +116,4 @@ to leverage technical examples to increase awareness, diversification, and chang
 Missing something? Want to add an icon? Open an [issue][issue] to get some :heart:.
 
 [issue]: https://github.com/LowlyDBA/ssms-icon-ref/issues
-[samps]: https://lowlydba.github.io/sampledataforchange/
 [sdfc]: https://sampledataforchange.github.io/
