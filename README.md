@@ -116,3 +116,4 @@ Missing something? Want to add an icon? Open an [issue][issue] to get some :hear
 
 [issue]: https://github.com/LowlyDBA/ssms-icon-ref/issues
 [samps]: https://lowlydba.github.io/sampledataforchange/
+[sdfc]: https://sampledataforchange.github.io/
